@@ -1,0 +1,649 @@
+{
+  "animals_week": {
+    "expiresAt": 1793698187808,
+    "data": {
+      "category": "animals",
+      "timeframe": "week",
+      "topHashtags": [
+        {
+          "tag": "#preschoollearning",
+          "count": 9
+        },
+        {
+          "tag": "#babyanimals",
+          "count": 8
+        },
+        {
+          "tag": "#3danimation",
+          "count": 8
+        },
+        {
+          "tag": "#shorts",
+          "count": 6
+        },
+        {
+          "tag": "#cuteanimals",
+          "count": 5
+        },
+        {
+          "tag": "#kidslearning",
+          "count": 5
+        },
+        {
+          "tag": "#toddlerlearning",
+          "count": 5
+        },
+        {
+          "tag": "#kidssongs",
+          "count": 5
+        },
+        {
+          "tag": "#animalsoundsforkids",
+          "count": 4
+        },
+        {
+          "tag": "#nurseryrhymes",
+          "count": 4
+        },
+        {
+          "tag": "#viral",
+          "count": 4
+        },
+        {
+          "tag": "#cutebaby",
+          "count": 3
+        },
+        {
+          "tag": "#kidsvideos",
+          "count": 3
+        },
+        {
+          "tag": "#short",
+          "count": 3
+        },
+        {
+          "tag": "#ytshort",
+          "count": 3
+        },
+        {
+          "tag": "#baby",
+          "count": 3
+        },
+        {
+          "tag": "#babyshark",
+          "count": 3
+        },
+        {
+          "tag": "#animalsounds",
+          "count": 3
+        },
+        {
+          "tag": "#learnanimals",
+          "count": 3
+        },
+        {
+          "tag": "#animalnames",
+          "count": 3
+        }
+      ],
+      "trendingVideos": [
+        {
+          "id": "GHyJkJbPs2A",
+          "title": "Cute Baby Reciting Surah An-Nasr | 3D Animation 🌅 #shorts",
+          "channelTitle": "Islam ki baatein",
+          "viewCount": 59597,
+          "publishedAt": "2026-10-28T08:57:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/GHyJkJbPs2A/hqdefault.jpg",
+          "hashtags": [
+            "#surahnasr",
+            "#surahannasr",
+            "#quranrecitation",
+            "#cutebaby",
+            "#babyrecitingSurah"
+          ]
+        },
+        {
+          "id": "hxP7xlwX-ho",
+          "title": "Surah Quraysh | Little Baby Quran Recitation | 3D Islamic Short #shorts",
+          "channelTitle": "Islam ki baatein",
+          "viewCount": 27440,
+          "publishedAt": "2026-10-27T09:08:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/hxP7xlwX-ho/hqdefault.jpg",
+          "hashtags": [
+            "#surahQuraysh",
+            "#surahquraish",
+            "#quranrecitation",
+            "#islamicshorts",
+            "#quranforkids"
+          ]
+        },
+        {
+          "id": "xlw4YiVsI4s",
+          "title": "Cute Baby & Kittens Playing with a Little Chick 🐱🐥 | Funny Cat Sounds | Animal Video for Kids",
+          "channelTitle": "Gungun Study",
+          "viewCount": 25841,
+          "publishedAt": "2026-10-30T12:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/xlw4YiVsI4s/hqdefault.jpg",
+          "hashtags": [
+            "#cutekittens",
+            "#cutekittenvideo",
+            "#kittenvideo",
+            "#cutecats",
+            "#catvideos"
+          ]
+        },
+        {
+          "id": "CH1lo6lwQ6o",
+          "title": "🐮 Animal Sounds with Baby  🦁🐶 Learn Animal Names & Real Animal Sounds",
+          "channelTitle": "Joy Nest Kids",
+          "viewCount": 25526,
+          "publishedAt": "2026-10-29T08:49:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/CH1lo6lwQ6o/hqdefault.jpg",
+          "hashtags": [
+            "#short",
+            "#ytshort",
+            "#baby",
+            "#babyshark",
+            "#animalsounds"
+          ]
+        },
+        {
+          "id": "9wl8tAE7pM0",
+          "title": "Cute Cartoon Train 🚂😍 Happy Kids & Animals | 3D Animation | Coco Kids World #Shorts",
+          "channelTitle": "Coco Kids World",
+          "viewCount": 19084,
+          "publishedAt": "2026-10-28T06:30:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/9wl8tAE7pM0/hqdefault.jpg",
+          "hashtags": [
+            "#cutecartoontrain",
+            "#gaadiaayigaadiaayi",
+            "#chhukchhukchhuk",
+            "#trainsongforkids",
+            "#cartoontrainanimation"
+          ]
+        },
+        {
+          "id": "2Rh-4TeoZo0",
+          "title": "Baby Animal Sounds for Kids 🐶🐱🐥 | Learn Animal Names",
+          "channelTitle": "Joy Nest Kids",
+          "viewCount": 14418,
+          "publishedAt": "2026-10-27T06:38:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/2Rh-4TeoZo0/hqdefault.jpg",
+          "hashtags": [
+            "#short",
+            "#ytshort",
+            "#baby",
+            "#babyshark",
+            "#babyanimalsounds"
+          ]
+        },
+        {
+          "id": "CTiQmNyWVp4",
+          "title": "Animal Sounds for Kids 🦁🐘🐵 | 35+ Animals & Their Babies | Learn Animal Names & Sounds in 3D!",
+          "channelTitle": "Joy Nest Kids",
+          "viewCount": 10947,
+          "publishedAt": "2026-11-02T07:44:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/CTiQmNyWVp4/hqdefault.jpg",
+          "hashtags": [
+            "#short",
+            "#ytshort",
+            "#baby",
+            "#babyshark",
+            "#animalsounds"
+          ]
+        },
+        {
+          "id": "QHA-jhzV8Rk",
+          "title": "🐘 Baby Elephant: Choose the Right One! 😍✅ #trending #viral #Shorts #funny #video #share ..",
+          "channelTitle": "Ajad Story Shorts",
+          "viewCount": 10301,
+          "publishedAt": "2026-10-27T07:02:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/QHA-jhzV8Rk/hqdefault.jpg",
+          "hashtags": [
+            "#babyelephant,cutebabyelephant,elephantshorts,cuteanimals,babyanimals,kidsshorts,animalshorts,choosetherightelephant,elephantcartoon,cuteelephantvideo,funnyanimalshorts,YouTubeshorts,adorablebabyelephant",
+            "#trending",
+            "#viral",
+            "#shorts",
+            "#funny"
+          ]
+        },
+        {
+          "id": "-Vlm-e41h8c",
+          "title": "Learn Numbers 1 to 5 | Counting for Kids & Toddlers 👶🐥 #shorts #kids #learning #viral",
+          "channelTitle": "Bubbluni Kids",
+          "viewCount": 8567,
+          "publishedAt": "2026-10-29T14:29:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/-Vlm-e41h8c/hqdefault.jpg",
+          "hashtags": [
+            "#numbersfortoddlers1-5",
+            "#countto5forkids",
+            "#learnnumbers1to5",
+            "#countingfortoddlers",
+            "#numbersforkids"
+          ]
+        },
+        {
+          "id": "eAVvo3RZm0I",
+          "title": "🐘 Learn Animal Names A to Z | Cute Baby Animals & Their Sounds | Cartopia Kids",
+          "channelTitle": "Cartopia Kids:",
+          "viewCount": 6590,
+          "publishedAt": "2026-10-27T12:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/eAVvo3RZm0I/hqdefault.jpg",
+          "hashtags": [
+            "#ABClearningforkids",
+            "#animalnamesandsounds",
+            "#junglesafaricartoon",
+            "#liontigerelephantzebra",
+            "#wildanimalscartoon"
+          ]
+        },
+        {
+          "id": "Ll1drduMD0Y",
+          "title": "Baby Farm Animal Names for Kids 🐾 | Puppy, Kitten, Calf & More 🎵 | Preschool Learning",
+          "channelTitle": "Little Blooming Kids",
+          "viewCount": 5163,
+          "publishedAt": "2026-10-29T11:15:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ll1drduMD0Y/hqdefault.jpg",
+          "hashtags": [
+            "#babyanimalsforkids",
+            "#babyanimalnames",
+            "#puppykittencalf",
+            "#lambfoalducklingchick",
+            "#pigletbunnykid"
+          ]
+        },
+        {
+          "id": "aT_DEtoBiCI",
+          "title": "The Great Jungle Hide-and-Seek! 🙈 Cute Baby Animal Camouflage Song for Kids",
+          "channelTitle": "Tiny Tinkle Kids Tunes",
+          "viewCount": 5137,
+          "publishedAt": "2026-10-28T11:18:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/aT_DEtoBiCI/hqdefault.jpg",
+          "hashtags": [
+            "#junglehideandseek",
+            "#animalcamouflageforkids",
+            "#babyanimalsfortoddlers",
+            "#lioncubvideo",
+            "#tigercubforkids"
+          ]
+        },
+        {
+          "id": "Fm0j7mi6qE8",
+          "title": "Old MacDonald E-I-E-I-O! 🐥 PEEP! QUACK! MOO! | Count 10 Baby Animals",
+          "channelTitle": "Happy Train Town-nursery rhymes ",
+          "viewCount": 4960,
+          "publishedAt": "2026-10-28T19:30:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fm0j7mi6qE8/hqdefault.jpg",
+          "hashtags": [
+            "#oldmacdonaldhadafarm",
+            "#oldmacdonaldeieio",
+            "#eieiosong",
+            "#countto10",
+            "#countingsongforkids"
+          ]
+        },
+        {
+          "id": "auZ7dvOzvqI",
+          "title": "Baby Animals & Their Moms 🐱🐶🐮🦆 | Farm Animals Song for Kids | Pockle Kids",
+          "channelTitle": "Pockle Kids",
+          "viewCount": 3156,
+          "publishedAt": "2026-10-29T13:00:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/auZ7dvOzvqI/hqdefault.jpg",
+          "hashtags": [
+            "#babyanimals",
+            "#farmanimals",
+            "#animalsforkids",
+            "#kidssongs",
+            "#nurseryrhymes"
+          ]
+        },
+        {
+          "id": "ccvGauHwW00",
+          "title": "Aloo & Zavi Help Baby Flamingo Reunite with Family | Aloo Cartoon | Urdu Kids Story #shorts",
+          "channelTitle": "Cosmo Mingle",
+          "viewCount": 2945,
+          "publishedAt": "2026-10-28T08:00:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/ccvGauHwW00/hqdefault.jpg",
+          "hashtags": [
+            "#COSMOMINGLE",
+            "#ZAVI",
+            "#Zavi",
+            "#3Danimation",
+            "#3Danimatedstories"
+          ]
+        }
+      ],
+      "commonKeywords": [
+        "cute baby animals",
+        "funny pets",
+        "chubby puppy",
+        "baby panda",
+        "kitten play"
+      ],
+      "fetchedAt": "2026-11-03T06:29:47.808Z",
+      "isMock": false
+    }
+  },
+  "animals_day": {
+    "expiresAt": 1793698333991,
+    "data": {
+      "category": "animals",
+      "timeframe": "day",
+      "topHashtags": [
+        {
+          "tag": "#preschoollearning",
+          "count": 7
+        },
+        {
+          "tag": "#shorts",
+          "count": 7
+        },
+        {
+          "tag": "#babyanimals",
+          "count": 6
+        },
+        {
+          "tag": "#3danimation",
+          "count": 6
+        },
+        {
+          "tag": "#cuteanimals",
+          "count": 6
+        },
+        {
+          "tag": "#toddlerlearning",
+          "count": 5
+        },
+        {
+          "tag": "#kidsanimation",
+          "count": 5
+        },
+        {
+          "tag": "#nurseryrhymes",
+          "count": 5
+        },
+        {
+          "tag": "#kidsshorts",
+          "count": 5
+        },
+        {
+          "tag": "#youtubeshorts",
+          "count": 5
+        },
+        {
+          "tag": "#kidsvideos",
+          "count": 4
+        },
+        {
+          "tag": "#kidscartoon",
+          "count": 4
+        },
+        {
+          "tag": "#kidsentertainment",
+          "count": 4
+        },
+        {
+          "tag": "#kidslearning",
+          "count": 3
+        },
+        {
+          "tag": "#babycartoon",
+          "count": 3
+        },
+        {
+          "tag": "#cutebabyanimals",
+          "count": 3
+        },
+        {
+          "tag": "#cartoonforkids",
+          "count": 3
+        },
+        {
+          "tag": "#cutebaby",
+          "count": 3
+        },
+        {
+          "tag": "#cartoon",
+          "count": 3
+        },
+        {
+          "tag": "#familyfriendly",
+          "count": 3
+        }
+      ],
+      "trendingVideos": [
+        {
+          "id": "CTiQmNyWVp4",
+          "title": "Animal Sounds for Kids 🦁🐘🐵 | 35+ Animals & Their Babies | Learn Animal Names & Sounds in 3D!",
+          "channelTitle": "Joy Nest Kids",
+          "viewCount": 10947,
+          "publishedAt": "2026-11-02T07:44:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/CTiQmNyWVp4/hqdefault.jpg",
+          "hashtags": [
+            "#short",
+            "#ytshort",
+            "#baby",
+            "#babyshark",
+            "#animalsounds"
+          ]
+        },
+        {
+          "id": "8P3zNmlTeIs",
+          "title": "Baby JJ Learns to Brush His Teeth with a Cute Lion Friend  Kids Cartoon #Shorts #BabyJJ #KidsCartoon",
+          "channelTitle": "ZapToons1234",
+          "viewCount": 2176,
+          "publishedAt": "2026-11-02T14:44:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/8P3zNmlTeIs/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#babyjj",
+            "#kidscartoon",
+            "#brushingteeth",
+            "#lionfriend"
+          ]
+        },
+        {
+          "id": "au55FMs-OWs",
+          "title": "Sharing Is Caring! 🍉🐰🐶 Baby Shares Giant Watermelon with Bunny & Puppy | #Shorts",
+          "channelTitle": "Giggle Town Kids _1",
+          "viewCount": 1365,
+          "publishedAt": "2026-11-02T16:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/au55FMs-OWs/hqdefault.jpg",
+          "hashtags": [
+            "#watermelonsongforkids",
+            "#giantwatermelon",
+            "#sharingiscaring",
+            "#sharingsongforkids",
+            "#bunnycartoon"
+          ]
+        },
+        {
+          "id": "KPW8KqrqCwY",
+          "title": "Cute Baby Meets an Adorable Kitten 🥹🐱❤️ | So Precious! #Shorts",
+          "channelTitle": "🧸 HAPPY BABY LAND 🐰",
+          "viewCount": 1302,
+          "publishedAt": "2026-11-02T07:25:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/KPW8KqrqCwY/hqdefault.jpg",
+          "hashtags": [
+            "#cutebaby,babyandkitten,cutekittenvideo,babyplayingwithcat,adorablebaby,cuteanimals,fluffykitten,babyshorts,kittenshorts,funnybabyvideo,heartwarmingbabyvideo,cutecartoonbaby,animatedbabyvideo,cutecatvideos",
+            "#adorablebaby",
+            "#adorablebaby,babyplayingwithcat",
+            "#shorts",
+            "#cutebaby"
+          ]
+        },
+        {
+          "id": "_NRLoHYEXhM",
+          "title": "Baby Animals for Kids 🐥🐶 | Learn Animal Names & Sounds with Max!",
+          "channelTitle": "Coco Toons",
+          "viewCount": 1266,
+          "publishedAt": "2026-11-02T12:00:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/_NRLoHYEXhM/hqdefault.jpg",
+          "hashtags": [
+            "#babyanimalsforkids",
+            "#babyanimals",
+            "#babyanimalnames",
+            "#babyanimalsandtheirmothers",
+            "#animalsoundsforkids"
+          ]
+        },
+        {
+          "id": "vVVLC8_VCAc",
+          "title": "The Magical Giant Bubble Adventure! 🫧🐯🦋 | Cute Baby Animals Cartoon for Kids # shorts",
+          "channelTitle": "Little Talkers",
+          "viewCount": 598,
+          "publishedAt": "2026-11-02T11:48:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/vVVLC8_VCAc/hqdefault.jpg",
+          "hashtags": [
+            "#kidsentertainment",
+            "#kidslearning",
+            "#funnybabyanimals",
+            "#cartoonforkids",
+            "#bubbleadventureforkids"
+          ]
+        },
+        {
+          "id": "ySnTTjAkYEo",
+          "title": "😂🐻 The Day Everyone Got the WRONG Job! 🐰🚌 | Funniest Baby Animal Story | JungleNovi",
+          "channelTitle": "JungleNovi",
+          "viewCount": 441,
+          "publishedAt": "2026-11-02T15:00:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/ySnTTjAkYEo/hqdefault.jpg",
+          "hashtags": [
+            "#JungleNovi",
+            "#funnyanimalstory",
+            "#babyanimalcartoon",
+            "#cutebabyanimals",
+            "#funnykidscartoon"
+          ]
+        },
+        {
+          "id": "UWCf0s-nXgs",
+          "title": "🚂💕 Baby’s Magical Train Adventure with Cute Animal Friends! 🐰🐢✨ #KidsShorts #Cartoon #3danimation",
+          "channelTitle": "Baby Fun house 🏠",
+          "viewCount": 345,
+          "publishedAt": "2026-11-02T14:22:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/UWCf0s-nXgs/hqdefault.jpg",
+          "hashtags": [
+            "#kidsshorts",
+            "#cartoon",
+            "#3danimation",
+            "#kidsanimation",
+            "#babydance"
+          ]
+        },
+        {
+          "id": "-9qV3TBwqiA",
+          "title": "ATinySnow Leopard Cub MeetsaFox While Drinking Water! WildlifeAdventure #youtubeshorts #aianimation",
+          "channelTitle": "PawTales World 🐾",
+          "viewCount": 306,
+          "publishedAt": "2026-11-02T11:03:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/-9qV3TBwqiA/hqdefault.jpg",
+          "hashtags": [
+            "#youtubeshorts",
+            "#aianimation"
+          ]
+        },
+        {
+          "id": "lUU18hbQZnM",
+          "title": "Counting Numbers with Happy Baby Animals! 🌈 1–10 Learning Song | MEWLINO KIDS #kidssongs",
+          "channelTitle": "MEWLINO KIDS",
+          "viewCount": 133,
+          "publishedAt": "2026-11-02T13:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/lUU18hbQZnM/hqdefault.jpg",
+          "hashtags": [
+            "#counting1to10",
+            "#countingsongforkids",
+            "#learnnumbers1to10",
+            "#numberssong",
+            "#numbersongfortoddlers"
+          ]
+        },
+        {
+          "id": "M6wd9pjjw90",
+          "title": "🧁 Sharing Is Fun! 😍 | Cute Baby Animals & Cupcake Song | Kids Cartoon #Shorts",
+          "channelTitle": "nunu TV channel",
+          "viewCount": 46,
+          "publishedAt": "2026-11-02T06:41:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/M6wd9pjjw90/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#kidsrhymes",
+            "#nurseryrhymes",
+            "#kidssongs",
+            "#3danimation"
+          ]
+        },
+        {
+          "id": "26AKZ9N0Cao",
+          "title": "🐻Baby Kuma Feeds Farm Animals!🐮💖| Cute Baby Dance & Kindness Story #Shorts #kids #cartoon #animation",
+          "channelTitle": "Kidopop",
+          "viewCount": 38,
+          "publishedAt": "2026-11-02T08:15:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/26AKZ9N0Cao/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#kids",
+            "#cartoon",
+            "#animation",
+            "#kidopop"
+          ]
+        },
+        {
+          "id": "TME1L38DrB8",
+          "title": "Happy Jungle Dance 🐵🐘 | English Nursery Rhymes for Kids | Baby Animals Dance Song | Kids Songs",
+          "channelTitle": "Amana Cartoon ",
+          "viewCount": 36,
+          "publishedAt": "2026-11-02T11:40:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/TME1L38DrB8/hqdefault.jpg",
+          "hashtags": [
+            "#happyjungledance",
+            "#englishnurseryrhymes",
+            "#kidssongs",
+            "#babyanimals",
+            "#nurseryrhymes"
+          ]
+        },
+        {
+          "id": "Tc4bcRIgO7c",
+          "title": "Meet 8 Cute Baby Animals 🐥🦋 | Fun Animal Learning for Toddlers #Shorts",
+          "channelTitle": "FunBox Shorts US",
+          "viewCount": 26,
+          "publishedAt": "2026-11-02T07:33:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tc4bcRIgO7c/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#animallearning",
+            "#toddlerlearning",
+            "#cuteanimals",
+            "#kidsanimation"
+          ]
+        },
+        {
+          "id": "udaCgkcgaVk",
+          "title": "🐥I Unexpectedly Met My GIANT Bestie!💙 | Beginning of a Cute PT Friendship💛]EPISODE 1 ] #shorts #cute",
+          "channelTitle": "PipiTukiTales",
+          "viewCount": 26,
+          "publishedAt": "2026-11-02T15:00:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/udaCgkcgaVk/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#cute",
+            "#pipiandtuki",
+            "#pipitukitales",
+            "#cutecartoon"
+          ]
+        }
+      ],
+      "commonKeywords": [
+        "cute baby animals",
+        "funny pets",
+        "chubby puppy",
+        "baby panda",
+        "kitten play"
+      ],
+      "fetchedAt": "2026-11-03T06:32:13.991Z",
+      "isMock": false
+    }
+  }
+}
