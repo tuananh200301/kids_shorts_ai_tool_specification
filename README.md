@@ -22,6 +22,12 @@ A modern, high-performance web tool built for creators producing **5-7 second AI
    - Production-ready prompts:
      - **Midjourney / Flux** Image Prompt with Pixar 3D styling (`--ar 9:16`).
      - **Kling / Runway Gen-3 / Pika** Motion Prompt with camera motion & looping wrap-around.
+   - **YouTube Upload Metadata**:
+     - **Click-worthy Title**: Emoji-infused viral titles under 70 characters with `#Shorts`.
+     - **Complete Description**: Includes cheerful summary, Like & Subscribe CTA, and hashtag cloud ready to copy-paste directly into YouTube Studio.
+   - **One-Click AI Image Preview (9:16)**:
+     - Generates visual vertical 9:16 concept art directly inside each script card with a single click.
+     - Built-in preview lightbox modal, download image button, and re-generation capability.
    - Recommended sound effects (*pop*, *boing*, *squeak*, *giggle*).
 
 3. **Bilingual Support (Tiếng Việt & English)**:

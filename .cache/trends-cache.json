@@ -325,77 +325,69 @@
     }
   },
   "animals_day": {
-    "expiresAt": 1793698333991,
+    "expiresAt": 1793858355362,
     "data": {
       "category": "animals",
       "timeframe": "day",
       "topHashtags": [
         {
+          "tag": "#shorts",
+          "count": 10
+        },
+        {
+          "tag": "#3danimation",
+          "count": 8
+        },
+        {
           "tag": "#preschoollearning",
           "count": 7
         },
         {
-          "tag": "#shorts",
-          "count": 7
-        },
-        {
-          "tag": "#babyanimals",
+          "tag": "#kidslearning",
           "count": 6
         },
         {
-          "tag": "#3danimation",
+          "tag": "#youtubeshorts",
+          "count": 6
+        },
+        {
+          "tag": "#nurseryrhymes",
           "count": 6
         },
         {
           "tag": "#cuteanimals",
-          "count": 6
+          "count": 5
+        },
+        {
+          "tag": "#kidssongs",
+          "count": 5
+        },
+        {
+          "tag": "#babyanimals",
+          "count": 4
+        },
+        {
+          "tag": "#learnnumbers",
+          "count": 4
         },
         {
           "tag": "#toddlerlearning",
-          "count": 5
+          "count": 4
+        },
+        {
+          "tag": "#3dcartoon",
+          "count": 4
         },
         {
           "tag": "#kidsanimation",
-          "count": 5
-        },
-        {
-          "tag": "#nurseryrhymes",
-          "count": 5
-        },
-        {
-          "tag": "#kidsshorts",
-          "count": 5
-        },
-        {
-          "tag": "#youtubeshorts",
-          "count": 5
-        },
-        {
-          "tag": "#kidsvideos",
           "count": 4
         },
         {
-          "tag": "#kidscartoon",
-          "count": 4
-        },
-        {
-          "tag": "#kidsentertainment",
-          "count": 4
-        },
-        {
-          "tag": "#kidslearning",
+          "tag": "#funnyanimals",
           "count": 3
         },
         {
-          "tag": "#babycartoon",
-          "count": 3
-        },
-        {
-          "tag": "#cutebabyanimals",
-          "count": 3
-        },
-        {
-          "tag": "#cartoonforkids",
+          "tag": "#babylearning",
           "count": 3
         },
         {
@@ -403,235 +395,246 @@
           "count": 3
         },
         {
-          "tag": "#cartoon",
+          "tag": "#alphabetsong",
           "count": 3
         },
         {
-          "tag": "#familyfriendly",
+          "tag": "#kidsshorts",
+          "count": 3
+        },
+        {
+          "tag": "#babyrhymes",
+          "count": 3
+        },
+        {
+          "tag": "#cartoonforkids",
           "count": 3
         }
       ],
       "trendingVideos": [
         {
-          "id": "CTiQmNyWVp4",
-          "title": "Animal Sounds for Kids 🦁🐘🐵 | 35+ Animals & Their Babies | Learn Animal Names & Sounds in 3D!",
-          "channelTitle": "Joy Nest Kids",
-          "viewCount": 10947,
-          "publishedAt": "2026-11-02T07:44:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/CTiQmNyWVp4/hqdefault.jpg",
+          "id": "ug7F9J-Q1h0",
+          "title": "🐶🍳Do I look super cute eating my doggy egg fried rice?",
+          "channelTitle": "Cute Animal World",
+          "viewCount": 2709,
+          "publishedAt": "2026-11-04T07:58:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/ug7F9J-Q1h0/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#dog",
+            "#puppy",
+            "#cute",
+            "#pets"
+          ]
+        },
+        {
+          "id": "NzAQY32IPRQ",
+          "title": "Learn Numbers 1 to 3 🔢 | Cute Animals for Kids | Episode 02 #Shorts",
+          "channelTitle": "Baby Kids Studio—USA",
+          "viewCount": 1741,
+          "publishedAt": "2026-11-04T12:30:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/NzAQY32IPRQ/hqdefault.jpg",
+          "hashtags": [
+            "##LearnNumbers",
+            "##NumbersForKids",
+            "##KidsLearning",
+            "##PreschoolLearning",
+            "##CuteAnimals"
+          ]
+        },
+        {
+          "id": "58eN7cE1_KY",
+          "title": "🐥 प्यारे बेबी के साथ 1 से 5 तक गिनती सीखें 😍 | Numbers 1 to 5 for Kids | 3D Cartoon #Shorts",
+          "channelTitle": "Kavita Wakodikar",
+          "viewCount": 1042,
+          "publishedAt": "2026-11-04T04:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/58eN7cE1_KY/hqdefault.jpg",
+          "hashtags": [
+            "#shorts",
+            "#countingforkids",
+            "#numbers1to5",
+            "#learnnumbers",
+            "#kidslearning"
+          ]
+        },
+        {
+          "id": "VFldq_hOO48",
+          "title": "D E F Magic! 🐶🐘🐠 | Cute Baby Learning ABC Rhymes! #kidsshorts #shorts #cutebaby #nurseryrhymes",
+          "channelTitle": "Pip & pop play",
+          "viewCount": 987,
+          "publishedAt": "2026-11-04T10:59:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/VFldq_hOO48/hqdefault.jpg",
+          "hashtags": [
+            "#babylearning",
+            "#DEFlearning",
+            "#DforDog",
+            "#EforElephant",
+            "#FforFish"
+          ]
+        },
+        {
+          "id": "twacsrVjsfA",
+          "title": "🐼 One, Two, Three, Four, Five! 🐥 Learn Numbers with Baby Animals | Baby Rhymes",
+          "channelTitle": "Baby_rhymes ",
+          "viewCount": 919,
+          "publishedAt": "2026-11-04T23:30:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/twacsrVjsfA/hqdefault.jpg",
+          "hashtags": [
+            "#countingsong",
+            "#countingrhymes",
+            "#animalsong",
+            "#animalcounting",
+            "#onetwothreefourfivecounting"
+          ]
+        },
+        {
+          "id": "nWPBnE77N7w",
+          "title": "ABC learning #3danimation #100k #babyduck #aianimation #abcsong #alphabetsong #animals",
+          "channelTitle": "animal patrol ",
+          "viewCount": 397,
+          "publishedAt": "2026-11-04T06:18:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/nWPBnE77N7w/hqdefault.jpg",
+          "hashtags": [
+            "#3danimation",
+            "#100k",
+            "#babyduck",
+            "#aianimation",
+            "#abcsong"
+          ]
+        },
+        {
+          "id": "JT8SWdrVVzw",
+          "title": "🎉 Learn with Me! 🐵🐰 | Fun Learning Nursery Rhyme for Kids | Colors, Numbers & Animals",
+          "channelTitle": "Usa Nursery Rhymes ",
+          "viewCount": 208,
+          "publishedAt": "2026-11-04T11:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/JT8SWdrVVzw/hqdefault.jpg",
+          "hashtags": [
+            "#nurseryrhymes",
+            "#kidsvideos",
+            "#toddlerlearning",
+            "#preschoollearning",
+            "#learningvideos"
+          ]
+        },
+        {
+          "id": "zg1QjFQ1gCg",
+          "title": "Peppy meets chippy!🐥🎀 #shorts #kids #funny",
+          "channelTitle": " funny fun ",
+          "viewCount": 55,
+          "publishedAt": "2026-11-04T12:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/zg1QjFQ1gCg/hqdefault.jpg",
+          "hashtags": [
+            "#Peppyarrives",
+            "#bigsisterchick",
+            "#babychicksister",
+            "#pinkbowchick",
+            "#【entity-Chippy¦canonical_name=Chippy】makingbreakfast"
+          ]
+        },
+        {
+          "id": "53w1bklMn9U",
+          "title": "Funny monkeys 😂 #1mviewers #3danimation #100k #monkey #monkeyfunnysmilevideo",
+          "channelTitle": "animal patrol ",
+          "viewCount": 39,
+          "publishedAt": "2026-11-04T10:05:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/53w1bklMn9U/hqdefault.jpg",
+          "hashtags": [
+            "#1mviewers",
+            "#3danimation",
+            "#100k",
+            "#monkey",
+            "#monkeyfunnysmilevideo"
+          ]
+        },
+        {
+          "id": "k2tGwxn0z-A",
+          "title": "Cute Baby Cat & Little Girl Funny Cartoon Adventure 🐱😍 | Kids Animation #Short#explore #newtrend",
+          "channelTitle": "Baby Magical World🌈",
+          "viewCount": 35,
+          "publishedAt": "2026-11-04T09:18:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/k2tGwxn0z-A/hqdefault.jpg",
           "hashtags": [
             "#short",
-            "#ytshort",
-            "#baby",
-            "#babyshark",
-            "#animalsounds"
+            "#explore",
+            "#newtrend",
+            "#cutecat",
+            "#babycat"
           ]
         },
         {
-          "id": "8P3zNmlTeIs",
-          "title": "Baby JJ Learns to Brush His Teeth with a Cute Lion Friend  Kids Cartoon #Shorts #BabyJJ #KidsCartoon",
-          "channelTitle": "ZapToons1234",
-          "viewCount": 2176,
-          "publishedAt": "2026-11-02T14:44:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/8P3zNmlTeIs/hqdefault.jpg",
+          "id": "LTxz-KWmOm0",
+          "title": "🐥 দুষ্টু বাচ্চা মুরগির মজার কাণ্ড! 😂 | Funny Baby Chick Cartoon | Baby Shorts#b #babyshorts #",
+          "channelTitle": "MTK Baby Shorts",
+          "viewCount": 28,
+          "publishedAt": "2026-11-04T05:09:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/LTxz-KWmOm0/hqdefault.jpg",
           "hashtags": [
-            "#shorts",
-            "#babyjj",
-            "#kidscartoon",
-            "#brushingteeth",
-            "#lionfriend"
+            "#babyshorts,funnycartoon,babychick,yellowchick,motherhen,funnychicken,chickencartoon,tomatocartoon,kidscartoon,funnyanimals,kidsentertainment,3danimation,animatedshorts,cutebabyanimals,cartoonshorts,funnykidsvideo,babyanimalcartoon,banglacartoon,youtubeshorts",
+            "#b",
+            "#babyshorts",
+            "#funnycartoon",
+            "#babychick"
           ]
         },
         {
-          "id": "au55FMs-OWs",
-          "title": "Sharing Is Caring! 🍉🐰🐶 Baby Shares Giant Watermelon with Bunny & Puppy | #Shorts",
-          "channelTitle": "Giggle Town Kids _1",
-          "viewCount": 1365,
-          "publishedAt": "2026-11-02T16:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/au55FMs-OWs/hqdefault.jpg",
-          "hashtags": [
-            "#watermelonsongforkids",
-            "#giantwatermelon",
-            "#sharingiscaring",
-            "#sharingsongforkids",
-            "#bunnycartoon"
-          ]
-        },
-        {
-          "id": "KPW8KqrqCwY",
-          "title": "Cute Baby Meets an Adorable Kitten 🥹🐱❤️ | So Precious! #Shorts",
-          "channelTitle": "🧸 HAPPY BABY LAND 🐰",
-          "viewCount": 1302,
-          "publishedAt": "2026-11-02T07:25:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/KPW8KqrqCwY/hqdefault.jpg",
-          "hashtags": [
-            "#cutebaby,babyandkitten,cutekittenvideo,babyplayingwithcat,adorablebaby,cuteanimals,fluffykitten,babyshorts,kittenshorts,funnybabyvideo,heartwarmingbabyvideo,cutecartoonbaby,animatedbabyvideo,cutecatvideos",
-            "#adorablebaby",
-            "#adorablebaby,babyplayingwithcat",
-            "#shorts",
-            "#cutebaby"
-          ]
-        },
-        {
-          "id": "_NRLoHYEXhM",
-          "title": "Baby Animals for Kids 🐥🐶 | Learn Animal Names & Sounds with Max!",
-          "channelTitle": "Coco Toons",
-          "viewCount": 1266,
-          "publishedAt": "2026-11-02T12:00:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/_NRLoHYEXhM/hqdefault.jpg",
-          "hashtags": [
-            "#babyanimalsforkids",
-            "#babyanimals",
-            "#babyanimalnames",
-            "#babyanimalsandtheirmothers",
-            "#animalsoundsforkids"
-          ]
-        },
-        {
-          "id": "vVVLC8_VCAc",
-          "title": "The Magical Giant Bubble Adventure! 🫧🐯🦋 | Cute Baby Animals Cartoon for Kids # shorts",
-          "channelTitle": "Little Talkers",
-          "viewCount": 598,
-          "publishedAt": "2026-11-02T11:48:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/vVVLC8_VCAc/hqdefault.jpg",
-          "hashtags": [
-            "#kidsentertainment",
-            "#kidslearning",
-            "#funnybabyanimals",
-            "#cartoonforkids",
-            "#bubbleadventureforkids"
-          ]
-        },
-        {
-          "id": "ySnTTjAkYEo",
-          "title": "😂🐻 The Day Everyone Got the WRONG Job! 🐰🚌 | Funniest Baby Animal Story | JungleNovi",
-          "channelTitle": "JungleNovi",
-          "viewCount": 441,
-          "publishedAt": "2026-11-02T15:00:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/ySnTTjAkYEo/hqdefault.jpg",
-          "hashtags": [
-            "#JungleNovi",
-            "#funnyanimalstory",
-            "#babyanimalcartoon",
-            "#cutebabyanimals",
-            "#funnykidscartoon"
-          ]
-        },
-        {
-          "id": "UWCf0s-nXgs",
-          "title": "🚂💕 Baby’s Magical Train Adventure with Cute Animal Friends! 🐰🐢✨ #KidsShorts #Cartoon #3danimation",
-          "channelTitle": "Baby Fun house 🏠",
-          "viewCount": 345,
-          "publishedAt": "2026-11-02T14:22:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/UWCf0s-nXgs/hqdefault.jpg",
-          "hashtags": [
-            "#kidsshorts",
-            "#cartoon",
-            "#3danimation",
-            "#kidsanimation",
-            "#babydance"
-          ]
-        },
-        {
-          "id": "-9qV3TBwqiA",
-          "title": "ATinySnow Leopard Cub MeetsaFox While Drinking Water! WildlifeAdventure #youtubeshorts #aianimation",
-          "channelTitle": "PawTales World 🐾",
-          "viewCount": 306,
-          "publishedAt": "2026-11-02T11:03:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/-9qV3TBwqiA/hqdefault.jpg",
+          "id": "3fraiBFr2Bs",
+          "title": "🔢🎈 Learn Numbers 1 to 5 with Cute Baby Animals! 🐥🌈Let's count together! #youtubeshorts",
+          "channelTitle": "BABY TV ",
+          "viewCount": 25,
+          "publishedAt": "2026-11-04T06:14:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/3fraiBFr2Bs/hqdefault.jpg",
           "hashtags": [
             "#youtubeshorts",
-            "#aianimation"
-          ]
-        },
-        {
-          "id": "lUU18hbQZnM",
-          "title": "Counting Numbers with Happy Baby Animals! 🌈 1–10 Learning Song | MEWLINO KIDS #kidssongs",
-          "channelTitle": "MEWLINO KIDS",
-          "viewCount": 133,
-          "publishedAt": "2026-11-02T13:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/lUU18hbQZnM/hqdefault.jpg",
-          "hashtags": [
-            "#counting1to10",
-            "#countingsongforkids",
-            "#learnnumbers1to10",
-            "#numberssong",
-            "#numbersongfortoddlers"
-          ]
-        },
-        {
-          "id": "M6wd9pjjw90",
-          "title": "🧁 Sharing Is Fun! 😍 | Cute Baby Animals & Cupcake Song | Kids Cartoon #Shorts",
-          "channelTitle": "nunu TV channel",
-          "viewCount": 46,
-          "publishedAt": "2026-11-02T06:41:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/M6wd9pjjw90/hqdefault.jpg",
-          "hashtags": [
-            "#shorts",
-            "#kidsrhymes",
-            "#nurseryrhymes",
-            "#kidssongs",
-            "#3danimation"
-          ]
-        },
-        {
-          "id": "26AKZ9N0Cao",
-          "title": "🐻Baby Kuma Feeds Farm Animals!🐮💖| Cute Baby Dance & Kindness Story #Shorts #kids #cartoon #animation",
-          "channelTitle": "Kidopop",
-          "viewCount": 38,
-          "publishedAt": "2026-11-02T08:15:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/26AKZ9N0Cao/hqdefault.jpg",
-          "hashtags": [
-            "#shorts",
-            "#kids",
-            "#cartoon",
-            "#animation",
-            "#kidopop"
-          ]
-        },
-        {
-          "id": "TME1L38DrB8",
-          "title": "Happy Jungle Dance 🐵🐘 | English Nursery Rhymes for Kids | Baby Animals Dance Song | Kids Songs",
-          "channelTitle": "Amana Cartoon ",
-          "viewCount": 36,
-          "publishedAt": "2026-11-02T11:40:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/TME1L38DrB8/hqdefault.jpg",
-          "hashtags": [
-            "#happyjungledance",
-            "#englishnurseryrhymes",
-            "#kidssongs",
-            "#babyanimals",
+            "#babyrhymes",
+            "#countingnumbers",
+            "#numbers1to5",
             "#nurseryrhymes"
           ]
         },
         {
-          "id": "Tc4bcRIgO7c",
-          "title": "Meet 8 Cute Baby Animals 🐥🦋 | Fun Animal Learning for Toddlers #Shorts",
-          "channelTitle": "FunBox Shorts US",
-          "viewCount": 26,
-          "publishedAt": "2026-11-02T07:33:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/Tc4bcRIgO7c/hqdefault.jpg",
+          "id": "P7qwSCJoOZE",
+          "title": "🐴 प्यारे बच्चे और नन्हे घोड़े की अनोखी दोस्ती ❤️ | Cute Baby & Pony Cartoon Animation #Shorts",
+          "channelTitle": "Toon Mithu🧒🏻",
+          "viewCount": 21,
+          "publishedAt": "2026-11-04T03:45:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/P7qwSCJoOZE/hqdefault.jpg",
           "hashtags": [
-            "#shorts",
-            "#animallearning",
-            "#toddlerlearning",
-            "#cuteanimals",
-            "#kidsanimation"
+            "#KidsEntertainment,",
+            "#kidscartoonshorts,",
+            "#cutebabycartoon,",
+            "#Entertainmentshorts,",
+            "#3Danimationvideo,"
           ]
         },
         {
-          "id": "udaCgkcgaVk",
-          "title": "🐥I Unexpectedly Met My GIANT Bestie!💙 | Beginning of a Cute PT Friendship💛]EPISODE 1 ] #shorts #cute",
-          "channelTitle": "PipiTukiTales",
-          "viewCount": 26,
-          "publishedAt": "2026-11-02T15:00:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/udaCgkcgaVk/hqdefault.jpg",
+          "id": "f4Sr_M_AOiw",
+          "title": "🔤 A for Animals, B for Boogie, C for Crazy, D for Dance! 🐵🐼#ABCD #ZuzuWorld #KidsFun #BabyAnimals",
+          "channelTitle": "ZuzuWorldTV- YT",
+          "viewCount": 19,
+          "publishedAt": "2026-11-04T03:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/f4Sr_M_AOiw/hqdefault.jpg",
+          "hashtags": [
+            "#abcd",
+            "#zuzuworld",
+            "#kidsfun",
+            "#babyanimals",
+            "#abcsong"
+          ]
+        },
+        {
+          "id": "cNUPjmmpg18",
+          "title": "🐰 Happy Little Bunny! 🌈 | Cute Cartoon Dance for Kids 💖 #shorts",
+          "channelTitle": "Baby bloom tv",
+          "viewCount": 7,
+          "publishedAt": "2026-11-04T03:30:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/cNUPjmmpg18/hqdefault.jpg",
           "hashtags": [
             "#shorts",
-            "#cute",
-            "#pipiandtuki",
-            "#pipitukitales",
-            "#cutecartoon"
+            "#babybloomtv",
+            "#nurseryrhymes",
+            "#kidssongs",
+            "#babycartoons"
           ]
         }
       ],
@@ -642,7 +645,7 @@
         "baby panda",
         "kitten play"
       ],
-      "fetchedAt": "2026-11-03T06:32:13.991Z",
+      "fetchedAt": "2026-11-05T02:59:15.362Z",
       "isMock": false
     }
   }

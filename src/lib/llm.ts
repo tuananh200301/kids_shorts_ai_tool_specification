@@ -30,6 +30,8 @@ export async function generateKidsShortScripts(
           id: { type: Type.STRING },
           title: { type: Type.STRING },
           category: { type: Type.STRING },
+          youtubeTitle: { type: Type.STRING, description: 'Viral YouTube Shorts title under 70 chars with emojis and #Shorts' },
+          youtubeDescription: { type: Type.STRING, description: 'Complete YouTube description with summary, subscribe CTA, and hashtags' },
           recommendedSoundEffect: { type: Type.STRING },
           timeline: {
             type: Type.OBJECT,
@@ -75,20 +77,36 @@ export async function generateKidsShortScripts(
 
     const parsed = JSON.parse(responseText) as VideoScript[];
     
-    // Ensure all prompts adhere strictly to style presets
-    const sanitizedScripts = parsed.map((script, idx) => ({
-      ...script,
-      id: script.id || `script-${Date.now()}-${idx + 1}`,
-      category,
-      prompts: {
-        imagePrompt: script.prompts.imagePrompt.includes('Pixar 3D animation style')
-          ? script.prompts.imagePrompt
-          : `${script.prompts.imagePrompt}, ${STYLE_PRESETS.imageSuffix} --ar 9:16`,
-        motionPrompt: script.prompts.motionPrompt.includes('seamless loop')
-          ? script.prompts.motionPrompt
-          : `${script.prompts.motionPrompt}, ${STYLE_PRESETS.motionSuffix}`,
-      },
-    }));
+    // Ensure all prompts and YouTube metadata adhere strictly to guidelines
+    const sanitizedScripts = parsed.map((script, idx) => {
+      const allTags = script.hashtags && script.hashtags.length > 0 ? script.hashtags : ['#Shorts', '#KidsShorts', '#CuteAnimation'];
+      const tagsString = allTags.map(t => t.startsWith('#') ? t : `#${t}`).join(' ');
+      const cleanTitle = script.title || `Kids Short #${idx + 1}`;
+      
+      const defaultYtTitle = script.youtubeTitle && script.youtubeTitle.trim().length > 5
+        ? script.youtubeTitle
+        : `${cleanTitle} 🎈✨ #Shorts`;
+
+      const defaultYtDesc = script.youtubeDescription && script.youtubeDescription.trim().length > 10
+        ? script.youtubeDescription
+        : `Watch this cute 5-7 second loop: ${cleanTitle}! 🎉\n\n✨ Pacing: ${script.timeline?.hook_0_to_2s || ''} -> ${script.timeline?.action_2_to_5s || ''}\n\n💖 Subscribe to our channel for more magical toddler animations and cute cartoons!\n\n${tagsString}`;
+
+      return {
+        ...script,
+        id: script.id || `script-${Date.now()}-${idx + 1}`,
+        category,
+        youtubeTitle: defaultYtTitle,
+        youtubeDescription: defaultYtDesc,
+        prompts: {
+          imagePrompt: script.prompts.imagePrompt.includes('Pixar 3D animation style')
+            ? script.prompts.imagePrompt
+            : `${script.prompts.imagePrompt}, ${STYLE_PRESETS.imageSuffix} --ar 9:16`,
+          motionPrompt: script.prompts.motionPrompt.includes('seamless loop')
+            ? script.prompts.motionPrompt
+            : `${script.prompts.motionPrompt}, ${STYLE_PRESETS.motionSuffix}`,
+        },
+      };
+    });
 
     return {
       scripts: sanitizedScripts,
@@ -335,11 +353,17 @@ function generateMockScripts(
   return selected.map((item, index) => {
     const scriptId = `script-${category}-${timestamp}-${index + 1}`;
     const allTags = Array.from(new Set([...baseTags, ...item.extraTags]));
+    const tagsStr = allTags.join(' ');
+
+    const ytTitle = `${item.title} 🎈✨ #Shorts`;
+    const ytDesc = `Watch this adorable 5-7 second looping cartoon: ${item.title}! 🌈🐾\n\nSound Effect: ${item.sfx}\n\n👉 Like & Subscribe for more ultra-cute toddler animations and funny kids shorts!\n\n${tagsStr}`;
 
     return {
       id: scriptId,
       title: item.title,
       category,
+      youtubeTitle: ytTitle,
+      youtubeDescription: ytDesc,
       recommendedSoundEffect: item.sfx,
       timeline: {
         hook_0_to_2s: item.hook,

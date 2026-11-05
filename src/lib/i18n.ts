@@ -70,6 +70,20 @@ export interface Translations {
     copyHashtags: string;
     promptCopied: string;
     tagsCopied: string;
+    generateImageBtn: string;
+    generatingImage: string;
+    regenerateImage: string;
+    downloadImage: string;
+    previewBadge: string;
+    viewFullscreen: string;
+    close: string;
+    youtubeSectionTitle: string;
+    youtubeTitleLabel: string;
+    youtubeDescLabel: string;
+    copyTitleBtn: string;
+    copyDescBtn: string;
+    titleCopied: string;
+    descCopied: string;
   };
   dashboard: {
     scriptsSectionTitle: string;
@@ -176,6 +190,20 @@ export const translations: Record<Language, Translations> = {
       copyHashtags: 'Copy Hashtags',
       promptCopied: 'Prompt Copied!',
       tagsCopied: 'Tags Copied!',
+      generateImageBtn: 'Generate AI Preview',
+      generatingImage: 'Rendering Image...',
+      regenerateImage: 'Regenerate',
+      downloadImage: 'Download',
+      previewBadge: 'AI Visual Preview (9:16)',
+      viewFullscreen: 'Expand View',
+      close: 'Close',
+      youtubeSectionTitle: 'YouTube Upload Metadata (Title & Description)',
+      youtubeTitleLabel: 'YouTube Video Title',
+      youtubeDescLabel: 'YouTube Description',
+      copyTitleBtn: 'Copy Title',
+      copyDescBtn: 'Copy Description',
+      titleCopied: 'Title Copied!',
+      descCopied: 'Description Copied!',
     },
     dashboard: {
       scriptsSectionTitle: '5-7s Script Concepts & Generation Prompts',
@@ -280,6 +308,20 @@ export const translations: Record<Language, Translations> = {
       copyHashtags: 'Chép Hashtags',
       promptCopied: 'Đã chép Prompt!',
       tagsCopied: 'Đã chép Hashtags!',
+      generateImageBtn: 'Tạo ảnh Preview mẫu',
+      generatingImage: 'Đang vẽ ảnh...',
+      regenerateImage: 'Tạo lại ảnh',
+      downloadImage: 'Tải ảnh',
+      previewBadge: 'Ảnh minh họa AI (9:16)',
+      viewFullscreen: 'Xem phóng to',
+      close: 'Đóng',
+      youtubeSectionTitle: 'Thông Tin Đăng Tải YouTube (Title & Description)',
+      youtubeTitleLabel: 'Tiêu đề video (Title)',
+      youtubeDescLabel: 'Mô tả video (Description)',
+      copyTitleBtn: 'Chép Tiêu Đề',
+      copyDescBtn: 'Chép Mô Tả',
+      titleCopied: 'Đã chép Tiêu đề!',
+      descCopied: 'Đã chép Mô tả!',
     },
     dashboard: {
       scriptsSectionTitle: 'Ý Tưởng Kịch Bản & Prompt Tạo Video (5-7 Giây)',

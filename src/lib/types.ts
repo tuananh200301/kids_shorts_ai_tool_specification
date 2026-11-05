@@ -33,6 +33,8 @@ export interface VideoScript {
   id: string;
   title: string;
   category: KidsCategory;
+  youtubeTitle?: string;
+  youtubeDescription?: string;
   recommendedSoundEffect: string;
   timeline: {
     hook_0_to_2s: string;
@@ -44,6 +46,7 @@ export interface VideoScript {
     imagePrompt: string; // Tailored for Midjourney/Flux (Pixar 3D style)
     motionPrompt: string; // Tailored for Kling/Runway/Pika
   };
+  previewImageUrl?: string;
 }
 
 export interface GenerateScriptsRequest {

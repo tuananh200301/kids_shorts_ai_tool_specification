@@ -62,7 +62,10 @@ CRITICAL DIRECTIVES:
 6. Prompts Generation:
    - Midjourney/Flux Image Prompt: Formulate a detailed master frame prompt with vivid descriptors, subject, framing, and automatically include: "${STYLE_PRESETS.imageSuffix}".
    - Kling/Runway/Pika Motion Prompt: Formulate motion camera movements, character kinetic action, and loop direction, ending with: "${STYLE_PRESETS.motionSuffix}".
-7. Output Format:
+7. YouTube Upload Metadata:
+   - youtubeTitle: Create an irresistible, viral YouTube Shorts title under 70 characters with vibrant emojis and #Shorts (e.g., "Baby Panda Jumps on Giant Pink Jelly! 🐼🫧 #Shorts").
+   - youtubeDescription: Create a complete, formatted YouTube description ready to paste. Include a cheerful 1-2 sentence video summary, friendly Call to Action ("👍 Like & Subscribe for more cute cartoons!"), and the full block of hashtags.
+8. Output Format:
    - You MUST output strictly valid JSON conforming to the requested schema. No conversational filler.`;
 
 export function buildScriptGenerationUserPrompt(
@@ -80,7 +83,9 @@ export function buildScriptGenerationUserPrompt(
 Current trending tags & keywords in this niche: ${trendingTagsText}
 
 Each concept must feature:
-- A unique cute character or sensory theme
+- An internal concept title
+- Ready-to-copy youtubeTitle (with emojis and #Shorts)
+- Ready-to-copy youtubeDescription (formatted with summary, like & subscribe CTA, and hashtags)
 - A specific catchy sound effect
 - Hook (0-2s), Action (2-5s), Loop Payoff (5-7s)
 - 4-6 high-velocity hashtags

@@ -122,6 +122,12 @@ export default function KidsShortsDashboard() {
     const combined = scripts
       .map(
         (s, i) => `=== SCRIPT #${i + 1}: ${s.title} ===
+📌 YOUTUBE TITLE:
+${s.youtubeTitle || `${s.title} 🎈✨ #Shorts`}
+
+📝 YOUTUBE DESCRIPTION:
+${s.youtubeDescription || `Watch this cute cartoon loop: ${s.title}!\n\n${s.hashtags.join(' ')}`}
+
 SFX: ${s.recommendedSoundEffect}
 Hook (0-2s): ${s.timeline.hook_0_to_2s}
 Action (2-5s): ${s.timeline.action_2_to_5s}
